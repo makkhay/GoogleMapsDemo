@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TakeHome</string>
+    <string name="title_activity_maps">My App</string>
+    <string name="title_activity_detail">Restaurant</string>
+    <string name="lado_kaha_mug">Lado kaha mug</string>
+    <string name="title_activity_detail_">Detail_Activity</string>
+</resources>
