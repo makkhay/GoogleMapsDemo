@@ -14,9 +14,9 @@ I made an assumption that first I need to understand how the google places api w
 
 ---
 # Code Organization
-Model - > Example.java, Geomtery.java, Location.java, Result.java
-Service -> Retrofitaps.java
-UI -> MapsActivity.java, DetailActivity.java
+- Model - > Example.java, Geomtery.java, Location.java, Result.java
+- Service -> Retrofitaps.java
+- UI -> MapsActivity.java, DetailActivity.java
 
 ---
 # Screenshot 
